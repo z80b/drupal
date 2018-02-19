@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/ctools"]
+	path = sites/all/modules/ctools
+	url = https://github.com/drupalprojects/ctools.git
